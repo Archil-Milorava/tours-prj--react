@@ -1,1 +1,1 @@
-## React Projects Starter APP
+## small react project of "tours"
